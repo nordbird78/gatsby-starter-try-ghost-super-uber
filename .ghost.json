@@ -1,10 +1,10 @@
     {
         "development": {
             "apiUrl": "https://nordost.herokuapp.com",
-            "contentApiKey": "5e011f471a66c49dff8d790428"
+            "contentApiKey": "82b09f7a2ac3ba0375e68c3d13"
         },
         "production": {
             "apiUrl": "https://nordost.herokuapp.com",
-            "contentApiKey": "5e011f471a66c49dff8d790428"
+            "contentApiKey": "82b09f7a2ac3ba0375e68c3d13"
         }
     }
